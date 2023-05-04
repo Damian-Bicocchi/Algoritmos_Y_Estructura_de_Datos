@@ -1,7 +1,12 @@
 package ejerciciosParcial1;
 
 import practica3.estructuras.*;
+/*
+Implemente la clase el metodo resolver que recibe un arbol binario de enteros positivos y un numero entero y devuelve un camino que cumpla con la condicion:
+la cantidad de pares que contenga el camino es mayor o igual al parametro entero. Si existen varios caminos, devolver el primero que encuentre
+(camino = raiz hasta una hoja)
 
+*/
 public class Parcial {
 	
 	
