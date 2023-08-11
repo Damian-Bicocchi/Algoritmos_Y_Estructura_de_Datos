@@ -1,6 +1,5 @@
 package practica2.ejercicio2Pr2;
-import tp02.ejercicio1.*;
-
+import practica1.estructuras.*;
 
 public class TestListaDeEnterosConArreglos {
 	public static void main(String [] args) {
@@ -16,7 +15,7 @@ public class TestListaDeEnterosConArreglos {
 
 		System.out.println("------------------------------------------");
 		miListaArreglo.comenzar();
-		miListaArreglo.imprimirReves(miListaArreglo);
+		//miListaArreglo.imprimirReves(miListaArreglo);
 		
 	}
 }

@@ -1,5 +1,5 @@
 package practica2.ejercicio2Pr2;
-import tp02.ejercicio1.*;
+import practica1.estructuras.*;
 public class TestListaDeEnterosEnlazada {
 	
 	public static void main(String[] args) {
@@ -14,7 +14,7 @@ public class TestListaDeEnterosEnlazada {
 		}
 		System.out.println("________________________________");
 		miListaEnlazada.comenzar();
-		miListaEnlazada.imprimirReves(miListaEnlazada);
+		//miListaEnlazada.imprimirReves(miListaEnlazada);
 		
 	}
 }

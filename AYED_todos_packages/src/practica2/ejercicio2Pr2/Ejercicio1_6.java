@@ -1,5 +1,6 @@
 package practica2.ejercicio2Pr2;
-import tp02.ejercicio1.*;
+
+import practica2.estructuras.ListaDeEnterosEnlazada;
 
 public class Ejercicio1_6 {
 	private ListaDeEnterosEnlazada lista;
