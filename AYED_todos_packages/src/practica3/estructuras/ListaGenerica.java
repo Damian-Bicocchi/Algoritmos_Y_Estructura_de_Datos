@@ -1,4 +1,4 @@
-package estructuras;
+package practica3.estructuras;
 
 
 public abstract class ListaGenerica<T> {

@@ -1,6 +1,6 @@
-package ejercicio2Pr3;
+package practica3.ejercicio2Pr3;
 
-import estructuras.ColaGenerica;
+import practica3.estructuras.ColaGenerica;
 
 public class ArbolBinario<T> {
 	private T dato;

@@ -1,4 +1,4 @@
-package estructuras;
+package practica3.estructuras;
 
 public class PilaGenerica<T> {
 	private ListaEnlazadaGenerica<T> pila;

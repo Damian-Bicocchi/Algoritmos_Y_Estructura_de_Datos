@@ -1,4 +1,4 @@
-package estructuras;
+package practica3.estructuras;
 /**
  * La clase ListaGenericaEnlazada es una ListaGenerica, donde los elementos de
  * la lista (nodos) referencian al siguiente elemento (nodo), por este motivo,

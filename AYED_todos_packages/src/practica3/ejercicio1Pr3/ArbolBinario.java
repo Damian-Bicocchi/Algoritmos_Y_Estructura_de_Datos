@@ -1,4 +1,4 @@
-package ejercicio1Pr3;
+package practica3.ejercicio1Pr3;
 
 public class ArbolBinario<T> {
 	private T dato;

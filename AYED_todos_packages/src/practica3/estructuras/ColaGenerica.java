@@ -1,5 +1,6 @@
-package estructuras;
+package practica3.estructuras;
 
+import practica2.estructuras.ListaEnlazadaGenerica;
 
 public class ColaGenerica<T> {
 	  private ListaEnlazadaGenerica<T> cola;

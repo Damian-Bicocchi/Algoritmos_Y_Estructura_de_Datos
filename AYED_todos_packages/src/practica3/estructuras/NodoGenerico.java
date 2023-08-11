@@ -1,4 +1,4 @@
-package estructuras;
+package practica3.estructuras;
 /**
  * Esta clase representa un nodo de la lista enlazada.
  * */
